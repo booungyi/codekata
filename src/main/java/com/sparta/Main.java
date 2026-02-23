@@ -5,7 +5,5 @@ package com.sparta;
 public class Main {
     public static void main(String[] args) {
 
-        int answer =DifferenceCalculator.solution(100, 1);
-        System.out.println("answer = " + answer);
     }
 }
